@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Asteroid</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="titre_entre">Entrez un username</string>
+    <string name="message">username :</string>
+    <string name="error">error</string>
+
+</resources>

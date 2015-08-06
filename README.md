@@ -1,0 +1,1 @@
+Le joueur contrôle un vaisseau qui doit survivre à la nué d’asteroid qui s’approche de lui dans tous les sens. Le joueur peut faire avancé le vaisseau ainsi que le faire tournée. Le vaisseau tire à chaque seconde 1 balle permettant de détruire un asteroid. Le but est d’obtenir le meilleur score ( en détruisant le plus grand nombre d'asteroid.
